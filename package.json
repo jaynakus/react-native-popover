@@ -22,11 +22,13 @@
     "url": "git@github.com:jeanregisser/react-native-popover.git"
   },
   "devDependencies": {
-    "react": "^15.4.1",
-    "react-native": "^0.42.0"
+    "react": "^16.0.0-rc.3",
+    "react-native": "^0.48.3",
+    "prop-types": "latest"
   },
   "peerDependencies": {
-    "react": "^15.4.1",
-    "react-native": "^0.42.0"
+    "react": "^16.0.0-rc.3",
+    "react-native": "^0.48.3",
+    "prop-types": "latest"
   }
 }
